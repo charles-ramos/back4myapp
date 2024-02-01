@@ -4,6 +4,7 @@ from django.test import TestCase
 import cols_tools as ct
 import col_dbtools as cdb
 
+
 maMaison = ct.PointGPS()
 maMaison.lat = 43.76666689338895
 maMaison.lon = 7.219108651604221
